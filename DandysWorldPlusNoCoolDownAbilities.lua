@@ -1,6 +1,6 @@
 local Admin_Event = game.ReplicatedStorage:WaitForChild("Events"):WaitForChild("AdminEvent")
 
-while task.wait(0.1) do
+while task.wait(0.05) do
     local success, isVisible = pcall(function()
         return game.Players.LocalPlayer.PlayerGui.ScreenGui.Ability1.CooldownFrame.Visible
     end)
