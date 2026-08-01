@@ -1,7 +1,7 @@
 local ohmygodtimeandplace = ...
 
 local andyoudiditatmybirthdaydinner = {
-    ["PLACEHOLDER"] = "nomorescriptomg?",
+    ["PLACEHOLDER"] = "https://github.com/uekiyas/Roblox/raw/refs/heads/main/printtest.lua",
 }
 
 if andyoudiditatmybirthdaydinner[ohmygodtimeandplace] then
