@@ -1,7 +1,7 @@
 local ohmygodtimeandplace = ...
 
 local andyoudiditatmybirthdaydinner = {
-    ["PLACEHOLDER"] = "https://github.com/uekiyas/Roblox/raw/refs/heads/main/printtest.lua",
+    ["Dandy's World Prompt"] = "https://github.com/uekiyas/Roblox/raw/refs/heads/main/DWPrompt.lua",
 }
 
 if andyoudiditatmybirthdaydinner[ohmygodtimeandplace] then
